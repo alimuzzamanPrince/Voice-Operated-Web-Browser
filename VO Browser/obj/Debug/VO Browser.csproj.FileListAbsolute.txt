@@ -1,0 +1,10 @@
+D:\Projects\VO Browser\VO Browser\obj\Debug\VO Browser.csprojResolveAssemblyReference.cache
+D:\Projects\VO Browser\VO Browser\obj\Debug\VO_Browser.Form1.resources
+D:\Projects\VO Browser\VO Browser\obj\Debug\VO_Browser.Properties.Resources.resources
+D:\Projects\VO Browser\VO Browser\obj\Debug\VO Browser.csproj.GenerateResource.Cache
+D:\Projects\VO Browser\VO Browser\obj\Debug\VO Browser.csproj.CoreCompileInputs.cache
+D:\Projects\VO Browser\VO Browser\bin\Debug\VO Browser.exe.config
+D:\Projects\VO Browser\VO Browser\bin\Debug\VO Browser.exe
+D:\Projects\VO Browser\VO Browser\bin\Debug\VO Browser.pdb
+D:\Projects\VO Browser\VO Browser\obj\Debug\VO Browser.exe
+D:\Projects\VO Browser\VO Browser\obj\Debug\VO Browser.pdb
